@@ -1,6 +1,6 @@
 # Dotfiles
 
-- [Introduction](./README.md)
+- [Introduction](./Home.md)
 
 - [Dediprog]( )
   - [Linux Guide](./dediprog.md)
