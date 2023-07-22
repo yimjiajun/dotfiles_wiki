@@ -1,16 +1,16 @@
 # Dotfiles
 
-- [Introductions](Home.md)
+- [Introductions](https://github.com/yimjiajun/.dotfiles/wiki)
 
-- [Summary](SUMMARY.md)
+- [Summary](https://github.com/yimjiajun/.dotfiles/wiki/SUMMARY)
 
-- [Dediprog](dediprog/dediprog.md)
-  - [Linux Guide](dediprog/dediprog_guide.md)
+- [Dediprog](https://github.com/yimjiajun/.dotfiles/wiki/dediprog/dediprog)
+  - [Linux Guide](https://github.com/yimjiajun/.dotfiles/wiki/dediprog/dediprog_guide)
 
-- [Khal](khal/khal.md)
-  - [Usage](khal/khal_usage.md)
-  - [(atd) Calendar Notification](khal/khal_at.md)
-  - [(vdirsyncer) Calendar remote sync](khal/khal_vdirsyncer.md)
+- [Khal](https://github.com/yimjiajun/.dotfiles/wiki/khal/khal)
+  - [Usage](https://github.com/yimjiajun/.dotfiles/wiki/khal/khal_usage)
+  - [(atd) Calendar Notification](https://github.com/yimjiajun/.dotfiles/wiki/khal/khal_at)
+  - [(vdirsyncer) Calendar remote sync](https://github.com/yimjiajun/.dotfiles/wiki/khal/khal_vdirsyncer)
 
-- [SSH](ssh/ssh.md)
-  - [Key generator](ssh/ssh_gen.md)
+- [SSH](https://github.com/yimjiajun/.dotfiles/wiki/ssh/ssh)
+  - [Key generator](https://github.com/yimjiajun/.dotfiles/wiki/ssh/ssh_gen)
