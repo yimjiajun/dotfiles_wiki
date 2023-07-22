@@ -2,12 +2,13 @@
 
 - [Introductions](Home.md)
 
-- [Dediprog]( )
-  - [Linux Guide](./dediprog.md)
+- [Dediprog](dediprog/dediprog.md)
+  - [Linux Guide](dediprog/dediprog_guide.md)
 
-- [Khal](khal.md)
-  - [Khal with at later time](khal_at.md)
-  - [Khal with vdirsyncer](khal_vdirsyncer.md)
+- [Khal](khal/khal.md)
+  - [Usage](khal/khal_usage.md)
+  - [(atd) Calendar Notification](khal/khal_at.md)
+  - [(vdirsyncer) Calendar remote sync](khal/khal_vdirsyncer.md)
 
 - [SSH](ssh/ssh.md)
   - [Key generator](ssh/ssh_gen.md)
