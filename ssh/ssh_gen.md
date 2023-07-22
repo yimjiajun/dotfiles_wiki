@@ -6,17 +6,17 @@
 
 ## Topic
 
-- [Algorithm](#algorithm)
-- [Command](#command)
-  - [Generate Key](#generate-keys)
-    - [Example](#example)
-  - [Copy Public Key](#copy-public-key)
+| | sections | sub-sections | items |
+| - | - | - | - |
+| 1 | [Algorithm](#algorithm) | | |
+| 2 | [Command](#command) | [Generate Key](#generate-keys) | [Example](#example) |
+| |  | [Copy Public Key](#copy-public-key)  | |
 
 ## Algorithm
 
 | `-t` | **rsa**        | **ed25519** | **ecdsa** | **dsa** |
 | -    | -              | -           | -         | -       |
-| `-b` | 2048/4096/8191 | -           | -         | -       |
+| `-b` | 2048/4096/8192 | -           | -         | -       |
 
 ## Command
 
@@ -28,7 +28,7 @@ ssh-keygen -t $algo -b $byte -C $comment -f $HOME/.ssh/$algo
 
 - `-t`/`$algo` : **rsa** / **ed25519** / **ecdsa** / **dsa**
 
-- `-b`/`$byte` : **rsa** (2048/4096/8191)
+- `-b`/`$byte` : **rsa** (2048/4096/8192)
 
 - `-C`/`$comment` : *optional*
   - [github](https://www.github.com/yimjiajun): email
