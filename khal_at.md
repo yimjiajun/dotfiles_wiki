@@ -2,7 +2,7 @@
 
 `at` and `batch` read commands from standard input or a specified file which are to be executed at a later time, using `/bin/sh`
 
-# Usage
+## Usage
 
 * interactive provide instruction
 
@@ -36,11 +36,12 @@
     ```
 
     - example:
-        1. run script from /bin/sh after 1 minute
 
-            ```bash
-            at now + 1minute <<< "echo \"run after a minute\" > /tmp/at_test.txt"
-            ```
+    1. run script from /bin/sh after 1 minute
+
+    ```bash
+    at now + 1minute <<< "echo \"run after a minute\" > /tmp/at_test.txt"
+    ```
 
 
 2. check pending job list
@@ -67,7 +68,7 @@
     atrm <job_number>
     ```
 
-# troubleshoot
+## troubleshoot
 
 1. `Can't open /var/run/atd.pid to signal atd. No atd running?`
 

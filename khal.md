@@ -1,12 +1,12 @@
 # Khal
 
-### Introduction
+## Introduction
 
 [Khal](https://github.com/pimutils/khal) is a standards based CLI and terminal calendar program, able to synchronize with [CalDAV](https://en.wikipedia.org/wiki/CalDAV) servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
 
-### Usage
+## Usage
 
-#### New event
+### New event
 
 1. single CLI[^h1]:
 
@@ -39,7 +39,7 @@
         | <kbd> Esc </kbd> + <kbd> Esc </kbd>   | to quit                        |
         | <kbd> Tab </kbd> (s)                  | swap to `> Save` to save event |
 
-### Remote Sync Cloud Calendar
+## Remote Sync Cloud Calendar
 
 [vdirsyncer](./khal_vdirsyncer.md)
 
