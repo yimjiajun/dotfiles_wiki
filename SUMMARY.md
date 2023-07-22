@@ -2,6 +2,8 @@
 
 - [Introductions](Home.md)
 
+- [Summary](SUMMARY.md)
+
 - [Dediprog](dediprog/dediprog.md)
   - [Linux Guide](dediprog/dediprog_guide.md)
 
