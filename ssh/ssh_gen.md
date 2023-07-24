@@ -64,4 +64,4 @@ ssh-keygen -t ed25519 -C usrname@email.com
     xclip -sel clip < $algo.pub
     ```
 
-- paste the server SSH key: <kbd> ctrl </kbd> + <kbd> v </kbd>
+- paste the public key to server: <kbd> ctrl </kbd> + <kbd> v </kbd>

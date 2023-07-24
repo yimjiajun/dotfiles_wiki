@@ -62,9 +62,9 @@ at now + <count> <time-unit>
 
 **1. run script from /bin/sh after 1 minute**
 
-    ```bash
-    at now + 1minute <<< "echo \"run after a minute\" > /tmp/at_test.txt"
-    ```
+  ```bash
+  at now + 1minute <<< "echo \"run after a minute\" > /tmp/at_test.txt"
+  ```
 
 **2\. check pending job list**
 
