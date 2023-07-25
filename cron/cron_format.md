@@ -12,6 +12,14 @@
 
 **1\. `*`: *any* or *every* value for specific time field**
 
-**2\. Schedule command will not source *.bashrc***
+- example:
+  - `0` `*` `*` `*` `*`: every 1 hour (at minute 0)
+
+**2\. `*/<num>`: *every* specific time filed**
+
+- example:
+  - `*` `*/2` `*` `*` `*` : every 2 hours
+
+**3\. Schedule command will not source *.bashrc***
 
 > ensure not using aliases or function defined in .bashrc
