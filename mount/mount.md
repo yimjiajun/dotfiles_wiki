@@ -2,4 +2,8 @@
 
 Mount a filesystem
 
-[USB Mass Storage Device](mount_usb_mass_storage_dev.md)
+[USB format](mount_usb_format.md)
+
+[WSL - USB Mass Storage Device](mount_wsl_usb_mass_storage_dev.md)
+
+[Format USB Driver](mount_format_usb_drive.md)

@@ -40,8 +40,10 @@
 - [SSH](ssh/ssh.md)
   - [Key generator](ssh/ssh_gen.md)
 
-- [ OpenSSL ]( )
-  - [ MD5 ](openssl/md5.md)
+- [OpenSSL]( )
+  - [MD5](openssl/md5.md)
 
-- [ Mount ](mount/mount.md)
-  - [ usb mass storage device ](mount/mount_usb_mass_storage_dev.md)
+- [Mount](mount/mount.md)
+  - [USB Format](mount/mount_usb_format.md)
+  - [WSL - USB Mass Storage Device](mount/mount_wsl_usb_mass_storage_dev.md)
+  - [Format USB drive](mount/mount_format_usb_drive.md)
