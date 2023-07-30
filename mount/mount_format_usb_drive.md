@@ -117,6 +117,51 @@ Mount with permission access by specific *user* and *group*:
 sudo mount /dev/sdb2 /media/jun/'name' -o uid=$(id -u $USER),gid=$(id -g $USER)
 ```
 
+## Powershell
+
+### 1\. Check Flash Drive location
+
+```powershell
+Get-Volume
+```
+
+Output response:
+ *Flash drive mount on DriveLetter F*
+
+
+```plain
+DriveLetter FriendlyName FileSystemType DriveType HealthStatus OperationalStatus SizeRemaining      Size
+----------- ------------ -------------- --------- ------------ ----------------- -------------      ----
+C           OS           NTFS           Fixed     Healthy      OK                    297.23 GB 476.27 GB
+            EFI          FAT32          Removable Healthy      OK                    196.91 MB 196.91 MB
+F                        NTFS           Removable Healthy      OK                      7.28 GB    7.3 GB
+                         FAT32          Fixed     Healthy      OK                     65.36 MB     96 MB
+                         NTFS           Fixed     Healthy      OK                     84.47 MB    566 MB
+```
+
+### 2\. Format USB drive
+
+```powershell
+Format-Volume -DriveLetter <drive_letter> -FileSystem NTFS -Confirm:$false
+```
+
+Example:
+ *format USB drive on DriveLetter f*
+
+Format USB drive locate on F:
+
+```powershell
+Format-Volume -DriveLetter F -FileSystem NTFS -Confirm:$false
+```
+
+Output response:
+ *USB drive format to NTFS filesystem*
+
+```plain
+DriveLetter FriendlyName FileSystemType DriveType HealthStatus OperationalStatus SizeRemaining   Size
+----------- ------------ -------------- --------- ------------ ----------------- -------------   ----
+F                        NTFS           Removable Healthy      OK                      7.28 GB 7.3 GB
+```
 
 ---
 [^l1]: for WSL: should [mount the usb drive](mount_wsl_usb_mass_storage_dev.md) from window
