@@ -47,3 +47,4 @@
   - [USB Format](mount/mount_usb_format.md)
   - [WSL - USB Mass Storage Device](mount/mount_wsl_usb_mass_storage_dev.md)
   - [Format USB drive](mount/mount_format_usb_drive.md)
+  - [Create Bootable USB drive](mount/mount_create_bootable_usb.md)

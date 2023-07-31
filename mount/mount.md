@@ -7,3 +7,5 @@ Mount a filesystem
 [WSL - USB Mass Storage Device](mount_wsl_usb_mass_storage_dev.md)
 
 [Format USB Driver](mount_format_usb_drive.md)
+
+[Create Bootable USB drive](mount_create_bootable_usb.md)
