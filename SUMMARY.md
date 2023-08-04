@@ -4,6 +4,22 @@
 
 - [Summary](SUMMARY.md)
 
+- [Bluetooth](bluetooth/bluetooth.md)
+  - [Interactive](bluetooth/bluetooth_interactive.md)
+  - [Controller]( )
+    - [Controller status](bluetooth/bluetooth_controller_status.md)
+    - [Controller multiple](bluetooth/bluetooth_controller_multiple.md)
+    - [Controller power on](bluetooth/bluetooth_controller_power_on.md)
+    - [Controller discoverable](bluetooth/bluetooth_controller_discoverable.md)
+    - [Controller pairable](bluetooth/bluetooth_controller_pairable.md)
+  - [Device]( )
+    - [Device scan](bluetooth/bluetooth_device_scan.md)
+    - [Device list](bluetooth/bluetooth_device_list.md)
+    - [Device pair](bluetooth/bluetooth_device_pair.md)
+    - [Device connect](bluetooth/bluetooth_device_connect.md)
+  - [Usage]( )
+    - [Connection](bluetooth/bluetooth_connect.md)
+
 - [Cron](cron/cron.md)
   - [Format of crontab](cron/cron_format.md)
   - [Usage](cron/cron_usage.md)
