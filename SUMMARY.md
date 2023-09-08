@@ -56,6 +56,9 @@
 - [SSH](ssh/ssh.md)
   - [Key generator](ssh/ssh_gen.md)
 
+- [Saleae](saleae/saleae.md)
+  - [Note](saleae/saleae_note.md)
+
 - [OpenSSL]( )
   - [MD5](openssl/md5.md)
 
