@@ -59,6 +59,9 @@
 - [Saleae](saleae/saleae.md)
   - [Note](saleae/saleae_note.md)
 
+- [RSync](rsync/rsync.md)
+  - [Transfer](rsync/rsync_transfer.md)
+
 - [OpenSSL]( )
   - [MD5](openssl/md5.md)
 
