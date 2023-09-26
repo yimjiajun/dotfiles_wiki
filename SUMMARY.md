@@ -44,7 +44,7 @@
 
 - [Pass](pass/pass.md)
   - [Installtion](pass/pass_installation.md)
-  - [Create Passwword](pass/pass_create.md)
+  - [Create Password](pass/pass_create.md)
   - [List Password](pass/pass_list.md)
   - [Search Password](pass/pass_search.md)
   - [Show Password](pass/pass_show.md)
@@ -55,6 +55,7 @@
 
 - [SSH](ssh/ssh.md)
   - [Key generator](ssh/ssh_gen.md)
+  - [Disown](ssh/ssh_disown.md)
 
 - [Saleae](saleae/saleae.md)
   - [Note](saleae/saleae_note.md)
