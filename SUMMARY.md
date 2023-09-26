@@ -56,6 +56,7 @@
 - [SSH](ssh/ssh.md)
   - [Key generator](ssh/ssh_gen.md)
   - [Disown](ssh/ssh_disown.md)
+  - [Nohup](ssh/ssh_nohup.md)
 
 - [Saleae](saleae/saleae.md)
   - [Note](saleae/saleae_note.md)
