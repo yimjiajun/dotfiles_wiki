@@ -31,6 +31,10 @@
 - [Dediprog](dediprog/dediprog.md)
   - [Linux Guide](dediprog/dediprog_guide.md)
 
+- [Drivers](drivers/drv.md)
+  - [USB](drivers/usb/usb.md)
+    - [Power](drivers/usb/usb_pwr.md)
+
 - [GPG](gpg/gpg.md)
   - [Generate Key](gpg/gpg_generate_keypair.md)
   - [List Key](gpg/gpg_list_keys.md)
