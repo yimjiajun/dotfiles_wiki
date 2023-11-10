@@ -16,8 +16,7 @@
     - [Device scan](bluetooth/bluetooth_device_scan.md)
     - [Device list](bluetooth/bluetooth_device_list.md)
     - [Device pair](bluetooth/bluetooth_device_pair.md)
-    - [Device connect](bluetooth/bluetooth_device_connect.md)
-  - [Usage]( )
+    - [Device connect](bluetooth/bluetooth_device_connect.md) [Usage]( )
     - [Connection](bluetooth/bluetooth_connect.md)
 
 - [Cron](cron/cron.md)
@@ -71,6 +70,9 @@
 
 - [RSync](rsync/rsync.md)
   - [Transfer](rsync/rsync_transfer.md)
+
+- [Sensors](./sensors/sensors.md)
+  - [Display](./sensors/sensors_display.md)
 
 - [OpenSSL]( )
   - [MD5](openssl/md5.md)
