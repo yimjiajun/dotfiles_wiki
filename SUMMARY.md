@@ -46,8 +46,12 @@
   - [(atd) Calendar Notification](khal/khal_at.md)
   - [(vdirsyncer) Calendar remote sync](khal/khal_vdirsyncer.md)
 
+- [Pandoc](./pandoc/pandoc.md)
+  - [Installation](pandoc/pandoc_install.md)
+  - [Usage](./pandoc/pandoc_usage.md)
+
 - [Pass](pass/pass.md)
-  - [Installtion](pass/pass_installation.md)
+  - [Installation](pass/pass_installation.md)
   - [Create Password](pass/pass_create.md)
   - [List Password](pass/pass_list.md)
   - [Search Password](pass/pass_search.md)
