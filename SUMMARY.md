@@ -82,3 +82,7 @@
   - [WSL - USB Mass Storage Device](mount/mount_wsl_usb_mass_storage_dev.md)
   - [Format USB drive](mount/mount_format_usb_drive.md)
   - [Create Bootable USB drive](mount/mount_create_bootable_usb.md)
+
+- [Other](other/README.md)
+  - [PiCar-X](other/picar_x/README.md)
+    - [Intsallation](other/picar_x/installation.md)
