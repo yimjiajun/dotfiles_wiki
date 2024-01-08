@@ -86,3 +86,4 @@
 - [Other](other/README.md)
   - [PiCar-X](other/picar_x/README.md)
     - [Intsallation](other/picar_x/installation.md)
+    - [Control Servo](other/picar_x/servo_control.md)

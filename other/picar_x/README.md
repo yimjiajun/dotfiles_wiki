@@ -8,6 +8,8 @@
 
 1. [Installation](installation.md)
 
+2. [Control Servo](servo_control.md)
+
 ## Introduction
 
 The PiCar-X is an AI-driven self-driving robot car for the Raspberry Pi platform,
