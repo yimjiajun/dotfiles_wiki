@@ -39,7 +39,7 @@ sed -se '$a\\\break'  *.md | pandoc -o output.pdf -V geometry: margin=1in  --pdf
 Change font to match missing Unicode character. `-V mainfont=`
 
 ```bash
- pandoc -o output.pdf -V geometry: margin=1in --pdf-engine=xelatex -V mainfont='DejaVuSerif' *.md
+pandoc -o output.pdf -V geometry: margin=1in --pdf-engine=xelatex -V mainfont='DejaVuSerif' *.md
 ```
 
 ### Size
@@ -59,4 +59,15 @@ Include table of contents from heading. `--toc`
 
 ```bash
 pandoc nov_26.md -o output.pdf --toc -V geometry:margin=1in pdf-engine=xelatex
+```
+
+## Example
+
+Run sample format to generate a pdf file (ex.sample.pdf) from input file (ex: input_sample.md)
+
+```bash
+pandoc -o sample.pdf -V geometry:margin=1in \
+--toc --pdf-engine=xelatex \
+--variable fontsize=10pt --variable fontfamily=utopia --variable linkcolor=blue \
+-f markdown-implicit_figures -s -V mainfont='' input_sample.md
 ```
