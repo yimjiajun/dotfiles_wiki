@@ -1,0 +1,7 @@
+# Python
+
+Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable.
+ It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
+
+- [Installation](lsp/python_install.md)
+- [Ruff](lsp/python_ruff_usage.md)

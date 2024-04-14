@@ -45,6 +45,11 @@
   - [(atd) Calendar Notification](khal/khal_at.md)
   - [(vdirsyncer) Calendar remote sync](khal/khal_vdirsyncer.md)
 
+- [LSP](lsp/lsp.md)
+  - [Python](lsp/python.md)
+    - [Installation](lsp/python_install.md)
+    - [Ruff](lsp/python_ruff_usage.md)
+
 - [Pandoc](./pandoc/pandoc.md)
   - [Installation](pandoc/pandoc_install.md)
   - [Usage](./pandoc/pandoc_usage.md)
