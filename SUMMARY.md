@@ -89,6 +89,8 @@
   - [Create Bootable USB drive](mount/mount_create_bootable_usb.md)
   - [Virtual Machine - Link Host Directory](mount/mount_vm_host_dir.md)
 
+- [Wifi](wifi/home.md)
+
 - [Other](other/README.md)
   - [PiCar-X](other/picar_x/README.md)
     - [Intsallation](other/picar_x/installation.md)
