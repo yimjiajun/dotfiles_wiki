@@ -9,3 +9,4 @@
 - [Key Generator](ssh_gen.md)
 - [Disown](ssh_disown.md)
 - [Nohup](ssh_nohup.md)
+- [Usage](ssh_suage.md)

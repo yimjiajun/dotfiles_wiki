@@ -67,8 +67,10 @@
 
 - [SSH](ssh/ssh.md)
   - [Key generator](ssh/ssh_gen.md)
+  - [Usage](ssh/ssh_usage.md)
   - [Disown](ssh/ssh_disown.md)
   - [Nohup](ssh/ssh_nohup.md)
+  - [TFTP](ssh/tftp.md)
 
 - [Saleae](saleae/saleae.md)
   - [Note](saleae/saleae_note.md)
