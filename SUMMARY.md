@@ -110,6 +110,10 @@
 
 - [Wifi](wifi/home.md)
 
+- [Xxd](xxd/xxd.md)
+
+  - [Usage](xxd/xxd_usage.md)
+
 - [Other](other/README.md)
 
   - [PiCar-X](other/picar_x/README.md)
